@@ -1,0 +1,12 @@
+.idea/
+.iml
+target/
+.class
+.jar
+.zip
+#mac files
+.DS_Store
+#intellij files
+assessment.iml
+
+
